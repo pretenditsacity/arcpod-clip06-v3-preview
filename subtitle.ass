@@ -1,0 +1,48 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1024
+PlayResY: 1820
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,LXGW WenKai,44,&H00000000,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,2,20,20,398,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.94,Default,,0,0,0,,{\fad(120,120)}这让我想到一个概念
+Dialogue: 0,0:00:01.94,0:00:02.74,Default,,0,0,0,,{\fad(120,120)}就是cultural
+Dialogue: 0,0:00:02.74,0:00:03.86,Default,,0,0,0,,{\fad(120,120)}entropy
+Dialogue: 0,0:00:03.86,0:00:06.94,Default,,0,0,0,,{\fad(120,120)}文化熵增
+Dialogue: 0,0:00:06.94,0:00:07.74,Default,,0,0,0,,{\fad(120,120)}你看啊
+Dialogue: 0,0:00:07.74,0:00:09.64,Default,,0,0,0,,{\fad(120,120)}热力学第二定律说什么
+Dialogue: 0,0:00:09.64,0:00:10.68,Default,,0,0,0,,{\fad(120,120)}封闭系统里面
+Dialogue: 0,0:00:10.68,0:00:12.80,Default,,0,0,0,,{\fad(120,120)}熵只会增加
+Dialogue: 0,0:00:12.80,0:00:15.30,Default,,0,0,0,,{\fad(120,120)}就是混乱度只会上升
+Dialogue: 0,0:00:15.30,0:00:17.20,Default,,0,0,0,,{\fad(120,120)}文化也是一样的
+Dialogue: 0,0:00:17.20,0:00:19.38,Default,,0,0,0,,{\fad(120,120)}当复制的成本趋近于零的时候
+Dialogue: 0,0:00:19.38,0:00:21.14,Default,,0,0,0,,{\fad(120,120)}原创就被稀释了
+Dialogue: 0,0:00:21.14,0:00:22.22,Default,,0,0,0,,{\fad(120,120)}一个好的idea出来
+Dialogue: 0,0:00:22.22,0:00:24.68,Default,,0,0,0,,{\fad(120,120)}瞬间被一千个模仿者淹没
+Dialogue: 0,0:00:24.68,0:00:26.16,Default,,0,0,0,,{\fad(120,120)}但你说的那个
+Dialogue: 0,0:00:26.16,0:00:27.82,Default,,0,0,0,,{\fad(120,120)}人性解决人性
+Dialogue: 0,0:00:27.82,0:00:29.64,Default,,0,0,0,,{\fad(120,120)}这个我觉得特别有意思
+Dialogue: 0,0:00:29.64,0:00:31.00,Default,,0,0,0,,{\fad(120,120)}因为人类历史上
+Dialogue: 0,0:00:31.00,0:00:33.68,Default,,0,0,0,,{\fad(120,120)}每一次技术革命都伴随着一段混乱期
+Dialogue: 0,0:00:33.68,0:00:35.24,Default,,0,0,0,,{\fad(120,120)}印刷术出来的时候
+Dialogue: 0,0:00:35.24,0:00:37.78,Default,,0,0,0,,{\fad(120,120)}教会说这是魔鬼的工具
+Dialogue: 0,0:00:37.78,0:00:38.54,Default,,0,0,0,,{\fad(120,120)}然后呢
+Dialogue: 0,0:00:38.54,0:00:40.32,Default,,0,0,0,,{\fad(120,120)}然后我们发展出了版权法
+Dialogue: 0,0:00:40.32,0:00:41.30,Default,,0,0,0,,{\fad(120,120)}出版伦理
+Dialogue: 0,0:00:41.30,0:00:42.70,Default,,0,0,0,,{\fad(120,120)}学术规范
+Dialogue: 0,0:00:42.70,0:00:44.68,Default,,0,0,0,,{\fad(120,120)}这些都是人性的解决方案
+Dialogue: 0,0:00:44.68,0:00:46.84,Default,,0,0,0,,{\fad(120,120)}不是技术的
+Dialogue: 0,0:00:46.84,0:00:48.12,Default,,0,0,0,,{\fad(120,120)}代价是什么
+Dialogue: 0,0:00:48.12,0:00:50.24,Default,,0,0,0,,{\fad(120,120)}我觉得代价可能是
+Dialogue: 0,0:00:50.24,0:00:52.16,Default,,0,0,0,,{\fad(120,120)}是一整代人的注意力
+Dialogue: 0,0:00:52.16,0:00:54.06,Default,,0,0,0,,{\fad(120,120)}是深度思考的能力
+Dialogue: 0,0:00:54.06,0:00:56.64,Default,,0,0,0,,{\fad(120,120)}是那种愿意花两个小时看一部电影
+Dialogue: 0,0:00:56.64,0:00:59.14,Default,,0,0,0,,{\fad(120,120)}而不是五分钟看解说的耐心
+Dialogue: 0,0:00:59.14,0:01:00.38,Default,,0,0,0,,{\fad(120,120)}这个东西一旦失去了
+Dialogue: 0,0:01:00.38,0:01:01.68,Default,,0,0,0,,{\fad(120,120)}要花多久才能重建
